@@ -1,6 +1,6 @@
-# Vue 3 + TypeScript + Vite
+# VueBoilerplate2024 = Vue 3 + TypeScript + Vite + Eslint + Husky + Lint Staged
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+VueBoilerplate2024 is a Vue.js boilerplate designed for rapid development. It leverages Vite and TypeScript for speed and type safety. Crucially, it includes ESLint, Husky, and lint-staged to enforce code quality, catching TypeScript errors before commits. With this boilerplate, developers can kickstart Vue.js projects efficiently, armed with essential tooling for seamless development and reliable codebase maintenance.
 
 ## Recommended IDE Setup
 

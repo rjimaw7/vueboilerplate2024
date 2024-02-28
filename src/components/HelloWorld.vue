@@ -10,5 +10,6 @@ const count = ref(0);
     <div class="flex justify-center items-center flex-col gap-4">
         <h1 class="text-2xl">{{ msg }}</h1>
         <!-- <button type="button" @click="count++">count is {{ count }}</button> -->
+        <p>test</p>
     </div>
 </template>
